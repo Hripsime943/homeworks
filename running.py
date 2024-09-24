@@ -1,0 +1,1 @@
+print('inch ka chka')
